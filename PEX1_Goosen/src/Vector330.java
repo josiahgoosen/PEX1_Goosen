@@ -1,7 +1,7 @@
 public class Vector330 {
 
     private double x;
-    private double y; // test
+    private double y; //
 
     public Vector330() {
         this.x = 0;
